@@ -96,9 +96,7 @@ As listas `classification`, `decisions` e `schedule` contêm as questões e os c
 
 O cronômetro usa 2400 segundos para 40 minutos. Se mudar a duração, revise também os rótulos e a distribuição do tempo. Ao mudar o gabarito ou a estrutura, altere a chave de armazenamento e a versão para não misturar respostas de edições diferentes.
 
-## Conferência desta revisão
-
-Conferidos no navegador: abertura de páginas diferentes pelos links de navegação, ausência de atividade e de falas do professor no conteúdo, cronômetro inicial de 40:00, validação de respostas incompletas e correção de 16/16. A autocorreção comentada, as novas tentativas, o relatório e o armazenamento local foram preservados.
+relatório e o armazenamento local foram preservados.
 
 ## Origem do conteúdo
 
